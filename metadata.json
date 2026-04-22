@@ -1,0 +1,6 @@
+{
+  "name": "BarberAI Master",
+  "description": "Интеллектуальный помощник для подбора мужских причесок с использованием ИИ. Загрузите фото и получите 5 идеальных образов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
